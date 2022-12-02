@@ -1,0 +1,46 @@
+/*body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;1,300&family=Poppins:wght@700&family=Roboto&display=swap');
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background: url("./assets/images/Individual.webp");
+  background-size: cover;
+} 
+
+@media screen and (max-width: 1280px) {
+  body {
+    background: url("./assets/images/Tablet.webp");
+    background-size: cover;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  body {
+    background: url("./assets/images/Phone.webp");
+    background-size: cover;
+  }
+}
