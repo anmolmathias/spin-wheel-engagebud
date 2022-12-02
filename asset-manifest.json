@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/spin-wheel-engagebud/static/css/main.8e7a00c7.css",
+    "main.js": "/spin-wheel-engagebud/static/js/main.4bd15411.js",
+    "static/media/Individual.webp": "/spin-wheel-engagebud/static/media/Individual.8498f88660d31d3fbda6.webp",
+    "static/media/wheel.webp": "/spin-wheel-engagebud/static/media/wheel.dc1a851e94335b3fe888.webp",
+    "static/media/Tablet.webp": "/spin-wheel-engagebud/static/media/Tablet.04651fce0e343b285dc8.webp",
+    "static/media/Phone.webp": "/spin-wheel-engagebud/static/media/Phone.e66da828ed77c39b64d1.webp",
+    "index.html": "/spin-wheel-engagebud/index.html",
+    "main.8e7a00c7.css.map": "/spin-wheel-engagebud/static/css/main.8e7a00c7.css.map",
+    "main.4bd15411.js.map": "/spin-wheel-engagebud/static/js/main.4bd15411.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e7a00c7.css",
+    "static/js/main.4bd15411.js"
+  ]
+}
